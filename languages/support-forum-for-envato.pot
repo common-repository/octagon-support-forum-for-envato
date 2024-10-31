@@ -1,0 +1,82 @@
+# Copyright (C) 2019 Octagon Web Studio
+# This file is distributed under the This WordPress plugin is comprised of two parts: (1) The PHP code and integrated HTML are licensed under the GPL license as is WordPress itself.  You will find a copy of the license text in the same directory as this text file. Or you can read it here: http://wordpress.org/about/gpl/ (2) All other parts of the plugin including, but not limited to the CSS code, images, and design are licensed according to the license purchased. Read about licensing details here: http://wordpress.org/about/gpl/.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Support Forum for Envato\n"
+"POT-Creation-Date: 2019-09-03 01:41+0530\n"
+"PO-Revision-Date: 2018-02-12 16:30+0530\n"
+"Last-Translator: Octagon <octagonwebstudio@gmail.com>\n"
+"Language-Team: Octagon Web Studio <octagonwebstudio@gmail.com>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-KeywordsList: _n;_e;_x;__;esc_html__;esc_html_e;esc_html_x;"
+"esc_attr__;esc_attr_e;esc_attr_x\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-admin-hooks.php:50
+msgid "Purchaser"
+msgstr ""
+
+#: includes/class-admin-hooks.php:112
+msgid "Purchase Codes"
+msgstr ""
+
+#: includes/class-admin-hooks.php:113
+msgid "Items"
+msgstr ""
+
+#: includes/class-bbp-metabox.php:39
+msgid "Support Item:"
+msgstr ""
+
+#: includes/class-bbp-metabox.php:41
+msgid "Choose Item"
+msgstr ""
+
+#: includes/class-bbp-settings.php:35
+msgid "Support Forum for Envato"
+msgstr ""
+
+#: includes/class-bbp-settings.php:57
+msgid "Envato API Token"
+msgstr ""
+
+#: includes/class-bbp-settings.php:63
+msgid "User Whitelist"
+msgstr ""
+
+#: includes/class-bbp-settings.php:82
+msgid "Enter User ID separated with commas."
+msgstr ""
+
+#: includes/class-support-forum.php:90
+msgid ""
+"Support Forum for Envato is enabled but not effective. It requires bbPress in "
+"order to work."
+msgstr ""
+
+#: includes/class-support-forum.php:216
+msgid "License Verification"
+msgstr ""
+
+#: includes/class-support-forum.php:410
+msgid "Purchase Validation"
+msgstr ""
+
+#: includes/class-support-forum.php:411
+msgid "Once you enter the valid purchase code it redirects you to the forum."
+msgstr ""
+
+#: includes/class-support-forum.php:412
+msgid "Envato Purchase Code"
+msgstr ""
+
+#: includes/class-tools.php:60
+msgid "Purchase code verification"
+msgstr ""
